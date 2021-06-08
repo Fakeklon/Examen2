@@ -1,0 +1,9 @@
+Incapacidad temporal se calcula en la base de la cotizacion /30 = resultado /60 %
+pasas 1 a 3 dias sin cobrer luego se le aplica 60% y apartir de  21 dias son 75% 
+
+---------------------------------------------------------------
+Si en caso de que pillas covid que contingensia seria? Común o Profesional especifica R= Contigenscia común por enfermedad.
+
+-------------------------------------------------------------------
+Incapacidad permanente los 4 puntos
+No entraran 36,35,1,45,9,12,28.
